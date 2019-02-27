@@ -1,6 +1,6 @@
 # Shelllost
-> _Hasta la victoria siempre_ ✊
-
 ![Logo](img/logo.jpg)
 
-Reverse shell that cleans logs
+> _Hasta la victoria siempre_ ✊
+
+Reverse shell that clean logs

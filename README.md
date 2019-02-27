@@ -1,2 +1,2 @@
 # Shelllost
-Reverse PHP shell that cleans logs
+Reverse shell that cleans logs

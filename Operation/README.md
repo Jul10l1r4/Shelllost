@@ -4,6 +4,7 @@
 * Capture Addres Ip
 * Capture User-agent
 * Find logs file of server
+* No find? Use the grep recursive 1° in /var/log if no in /
 * If find logs then Exec commands
 * Replace Path, user agent, and Ip
 # Server Targets

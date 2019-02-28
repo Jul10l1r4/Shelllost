@@ -6,3 +6,7 @@
 * Find logs file of server
 * If find logs then Exec commands
 * Replace Path, user agent, and Ip
+# Server Targets
+* Nginx
+* Apache
+* Native language

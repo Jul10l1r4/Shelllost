@@ -10,3 +10,4 @@
 * Nginx   → /var/log/nginx/{access.log, error.log, warning.log}
 * Apache  → /var/log/apache2/{access.log, error.log, warning.log}
 * Native language
+# Replace using sed, regex
